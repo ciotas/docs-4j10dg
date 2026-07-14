@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-69ih50.paris889cqa.cfd/sitemap.xml
